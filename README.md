@@ -17,7 +17,15 @@
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3ce48d48-a484-447f-8010-e6f0972fe519" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
 
-## Dynamic Quotes 📜:
+## Trophies 🏆:
+<br>
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=shekharh500&theme=flat&no-frame=true&margin-w=15&margin-h=15">
+</p>
+<hr>
+<br>
+
+## Quotes 📜:
 <br>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
