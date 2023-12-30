@@ -5,19 +5,21 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    steps:
-     - name: Checkout repository
-      uses: actions/checkout@v2
 
-    - name: Use a secret
-      run: echo "My secret value is ${{ secrets.MY_SECRET }}"
-      
-      - uses: shekharh500/shekharh500@main
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Use a secret
+        run: echo "My secret value is ${{ secrets.MY_SECRET }}"
+
+      - name: Run shekharh500 action
+        uses: shekharh500/shekharh500@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-   
