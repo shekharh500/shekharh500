@@ -20,6 +20,7 @@
 <a href="https://wakatime.com/018cbc55-033a-47a0-9869-f1780280d7d8"><img src="https://wakatime.com/badge/user/018cbc55-033a-47a0-9869-f1780280d7d8.svg" alt="Total time coded since Dec 31 2023" /></a>
 
 <!--START_SECTION:waka-->
+
 name: Waka Readme
 
 on:
@@ -34,8 +35,9 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ waka_c6d7f6ca-e646-4d61-9f71-3a5ff7787f9d }}
-          GH_TOKEN: ${{ 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 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
