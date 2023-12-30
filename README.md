@@ -17,8 +17,6 @@
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3ce48d48-a484-447f-8010-e6f0972fe519" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
 
-<a href="https://wakatime.com/018cbc55-033a-47a0-9869-f1780280d7d8"><img src="https://wakatime.com/badge/user/018cbc55-033a-47a0-9869-f1780280d7d8.svg" alt="Total time coded since Dec 31 2023" /></a>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
