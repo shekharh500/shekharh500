@@ -11,14 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
       - name: Use a secret
         run: echo "My secret value is ${{ secrets.MY_SECRET }}"
 
       - name: Run WakaTime Stats action
-        uses: anmol098/waka-readme-stats@v2
+        uses: shekharh500/shekharh500@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
