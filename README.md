@@ -20,24 +20,6 @@
 <a href="https://wakatime.com/018cbc55-033a-47a0-9869-f1780280d7d8"><img src="https://wakatime.com/badge/user/018cbc55-033a-47a0-9869-f1780280d7d8.svg" alt="Total time coded since Dec 31 2023" /></a>
 
 <!--START_SECTION:waka-->
-
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
