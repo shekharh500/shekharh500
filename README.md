@@ -17,6 +17,14 @@
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3ce48d48-a484-447f-8010-e6f0972fe519" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
 
+<hr>
+<br>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=shekharh500">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/shekharh500?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.visitorbadge.io/api/visitors?path=shekharh500&countColor=%23263759&style=plastic" />
+</p>
+<br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
