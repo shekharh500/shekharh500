@@ -1,4 +1,4 @@
-name: Waka Readme
+name: shekharh500
 
 on:
   schedule:
@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: shekharh500/Waka-readme@main
+      - uses: shekharh500/shekharh500@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
