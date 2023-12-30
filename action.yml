@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Use a secret
-        run: echo "My secret value is ${{ secrets.MY_SECRET }}"
+        run: echo "My secret value is ${{ secrets.WAKATIME_API_KEY }}"
 
       - name: Run shekharh500 action
         uses: shekharh500/shekharh500@main
