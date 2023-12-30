@@ -16,6 +16,6 @@ jobs:
 
       - name: Run WakaTime Stats action
         uses: shekharh500/shekharh500@main
-        with:
+        secrets:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
