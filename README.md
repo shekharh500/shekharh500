@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
+<h3 align="center">Your network is your net worth. Connect with me &nbsp;👉 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+</h3>
+
+<hr>
 
 <h1> Hi there 👋! I'm Himanshu. </h1>
-<a align="center" href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-</a>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&weight=100&size=25&duration=2000&pause=500&color=D25900FF&center=false&random=true&width=435&lines=%40shekharh500;9X+Salesforce+Certified;Developed+3%2B+AppExchange+App.;7X+Super+Badges" alt="Typing SVG" /></a>
