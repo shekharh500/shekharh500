@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
-<h3 align="center">Your network is your net worth. Connect with me <br> <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<h3 align="center">Your network is your net worth. Connect with me <br><br> <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h3>
 
 <hr>
