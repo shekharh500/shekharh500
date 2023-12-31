@@ -5,6 +5,8 @@
 
 <h1> Hi there 👋! I'm Himanshu. </h1>
 
+<img src="https://wakatime.com/share/@shekharh500/b92f35ee-a416-4428-a907-33584afa5bb9.svg"/>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&weight=100&size=25&duration=2000&pause=500&color=D25900FF&center=false&random=true&width=435&lines=%40shekharh500;9X+Salesforce+Certified;Developed+3%2B+AppExchange+App.;7X+Super+Badges" alt="Typing SVG" /></a>
 </p>
