@@ -3,10 +3,13 @@
 </p>
 
 <h1> Hi there 👋! I'm Himanshu. </h1>
+<a align="center" href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&weight=100&size=25&duration=2000&pause=500&color=D25900FF&center=false&random=true&width=435&lines=%40shekharh500;9X+Salesforce+Certified;Developed+3%2B+AppExchange+App.;7X+Super+Badges" alt="Typing SVG" /></a>
 </p>
+<p align="center">
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/ba4fd445-d97d-4da3-b8a6-0740dd2a07ad" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/c0c805aa-fb91-4ebf-8e0d-9d20426c5131" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/9d72f356-ad54-44a3-9382-0fe19778a920" width="85" height="85"/>
@@ -16,12 +19,17 @@
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/7f576321-406f-4856-96fb-7903e7f03c6c" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3ce48d48-a484-447f-8010-e6f0972fe519" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
-
+</p>
 <hr>
 
 <p align='center'>
-      <img alt="Issues" src="https://img.shields.io/github/issues/shekharh500/github-readme-stats?color=0088ff" />
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/shekharh500/github-readme-stats?color=0088ff" />
+  <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/stars/shekharh500/custom-icon-badges?logo=star" />
+  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/shekharh500/custom-icon-badges?logo=history&logoColor=white" />
+  <img alt="Contributors" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
+  <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/languages/code-size/shekharh500/custom-icon-badges?logo=file-code&logoColor=white" />
+      <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues-raw/shekharh500/custom-icon-badges?logo=issue" />
+   <img alt="GitHub pull requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/shekharh500/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white" />
+  <img alt="GitHub Streaks" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
 </p>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=shekharh500">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,16 +57,14 @@
 <p align='center'>
 <h6>Note: Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
-
 <hr>
-<br>
+
 ## Trophies 🏆:
 <br>
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=shekharh500&theme=flat&no-frame=true&margin-w=15&margin-h=15">
 </p>
 <hr>
-<br>
 
 ## Quotes 📜:
 <br>
@@ -68,7 +74,6 @@
 
 ##
 
-<br>
 <h2 align='center'>Your network is your net worth. Connect with me<br><br> <a align="center" href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h2>
 <br>
