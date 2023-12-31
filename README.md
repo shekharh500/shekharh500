@@ -1,9 +1,7 @@
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 
-<h3 align="center">Your network is your net worth. Connect with me <br><br> <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<h2 align="center">Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h3>
-
-<hr>
 
 <h1> Hi there 👋! I'm Himanshu. </h1>
 
