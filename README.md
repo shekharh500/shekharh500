@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-</p>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+
 <h3 align="center">Your network is your net worth. Connect with me <br><br> <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h3>
 
@@ -86,6 +85,6 @@
 
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
+
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
