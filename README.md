@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
-<h3 align="center">Your network is your net worth. Connect with me &nbsp;👉 &nbsp;&nbsp; <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<h3 align="center">Your network is your net worth. Connect with me <br> <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h3>
 
 <hr>
@@ -76,7 +76,7 @@
 
 ##
 
-<h2 align='center'>Your network is your net worth. Connect with me<br><br> <a align="center" href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<h2 align='center'>Every success tale starts with a connection. Join me! <br><br> <a align="center" href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h2>
 <br>
 
