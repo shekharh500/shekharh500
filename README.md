@@ -5,7 +5,7 @@
 
 <h1> Hi there 👋! I'm Himanshu. </h1>
 
-## npm package - Profile card 📦 
+## npm package - Profile card 📦  
 <br>
 
 > Run the following command to know more about me
