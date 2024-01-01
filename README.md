@@ -77,8 +77,6 @@ npx shekharh500
  > 
 > 🏆 19 Contributions in the Year 2024
  > 
-> 💼 Opted to Hire
- > 
 > 📜 4 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
