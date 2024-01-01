@@ -60,7 +60,7 @@ npx shekharh500
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -119,7 +119,7 @@ Ruby                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2024 13:09:11 UTC
+ Last Updated on 01/01/2024 13:11:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github Contribution Streak 🔥 
