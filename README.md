@@ -40,6 +40,7 @@ npx shekharh500
       <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues-raw/shekharh500/custom-icon-badges?logo=issue" />
    <img alt="GitHub pull requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/shekharh500/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white" />
   <img alt="GitHub Streaks" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
+<img src="https://wakatime.com/badge/user/018cbc55-033a-47a0-9869-f1780280d7d8.svg" alt="Total time coded since Dec 31 2023" />
 </p>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=shekharh500">&nbsp;&nbsp;&nbsp;&nbsp;
