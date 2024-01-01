@@ -128,7 +128,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 ## Github Stats &nbsp;📊
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=shekharh500&theme=light&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+<img src="https://github-readme-stats.vercel.app/api?username=shekharh500&theme=light&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true">
 </p>
 <hr>
 
