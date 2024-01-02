@@ -1,11 +1,9 @@
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 
-<h2 align="center">Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-</h3>
+<h2 align="center"> <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white"/>  Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+</h2>
 
-<h1 align="center"> Hi there 👋! I'm Himanshu. <br>
-  <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white"/>  
-</h1>
+<h1 align="center"> Hi there 👋! I'm Himanshu.</h1>
 
 ## npm package - Profile card 📦 
 <br>
@@ -33,18 +31,19 @@ npx shekharh500
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
 </p>
 <hr>
-
+<!--
 <p align='center'>
-  <img alt="Issues" src="m-icon-badges.demolab.com/github/stars/Shekharh500?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
-  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/shekharh500/custom-icon-badges?logo=history&logoColor=white" />
+  
+  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/shekharh500/custom-icon-badges?logo=history&color=green&logoColor=white" />
   <img alt="Contributors" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
   <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/languages/code-size/shekharh500/custom-icon-badges?logo=file-code&logoColor=white" />
       <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues-raw/shekharh500/custom-icon-badges?logo=issue" />
    <img alt="GitHub pull requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/shekharh500/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white" />
   <img alt="GitHub Streaks" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
-</p>
+</p> -->
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=shekharh500">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Star" src="https://img.shields.io/github/stars/shekharh500?logo=star&cacheSeconds=2592000" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/shekharh500?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://api.visitorbadge.io/api/visitors?path=shekharh500&countColor=%23263759&style=plastic" />
 </p>
