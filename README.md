@@ -35,7 +35,7 @@ npx shekharh500
 <hr>
 
 <p align='center'>
-  <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/stars/shekharh500/custom-icon-badges?logo=star" />
+  <img alt="Issues" src="m-icon-badges.demolab.com/github/stars/Shekharh500?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
   <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/shekharh500/custom-icon-badges?logo=history&logoColor=white" />
   <img alt="Contributors" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
   <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/languages/code-size/shekharh500/custom-icon-badges?logo=file-code&logoColor=white" />
