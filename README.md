@@ -3,7 +3,9 @@
 <h2 align="center">Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h3>
 
-<h1> Hi there 👋! I'm Himanshu. </h1>
+<h1 align="center"> Hi there 👋! I'm Himanshu. <br>
+  <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white"/>  
+</h1>
 
 ## npm package - Profile card 📦 
 <br>
