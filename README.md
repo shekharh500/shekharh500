@@ -1,6 +1,6 @@
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 
-<h2 align="center"> <a href="https://www.salesforce.com/trailblazer/shekharh500"> <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white"/></a>  Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<h2 align="center"> <a href="https://www.salesforce.com/trailblazer/shekharh500"> <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white&label=Trailhead"/></a>  Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h2>
 
 <h1 align="center"> Hi there 👋! I'm Himanshu.</h1>
