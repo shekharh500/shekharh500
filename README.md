@@ -111,16 +111,13 @@ Sunday                   87 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 20 mins       █████████████████████████   99.44 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   4 hrs 20 mins       █████████████████████████   99.44 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 8 mins        ████████████████████████░   94.58 % 
-Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Apex** 
@@ -139,7 +136,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2024 20:05:51 UTC
+ Last Updated on 09/03/2024 22:06:08 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
