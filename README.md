@@ -68,6 +68,8 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2039%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -107,13 +109,19 @@ Sunday                   87 commits          ██████████░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.08 % 
+HTML                     1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Other                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+OpenEdge ABL             29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 47 mins       ████████████████████░░░░░   80.41 % 
+Chrome                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 46 mins       ████████████████████████░   96.83 % 
+Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 **I Mostly Code in Apex** 
@@ -132,7 +140,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 20:05:54 UTC
+ Last Updated on 11/04/2024 22:06:04 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
