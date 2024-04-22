@@ -76,7 +76,7 @@ npx shekharh500
 
 > 📦 119.7 kB Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -111,18 +111,13 @@ Sunday                   87 commits          ██████████░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 53 mins       ███████████████████████░░   92.84 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   6 hrs 53 mins       ███████████████████████░░   92.84 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 20 mins       ██████████████████░░░░░░░   71.89 % 
-Windows                  2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Apex** 
@@ -141,7 +136,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 20:06:41 UTC
+ Last Updated on 22/04/2024 22:07:21 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
