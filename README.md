@@ -68,7 +68,7 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
 
@@ -76,11 +76,13 @@ npx shekharh500
 
 > 📦 189.3 kB Used in GitHub's Storage 
  > 
+> 🏆 194 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 52 Private Repositories 
+> 🔑 53 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -127,10 +129,10 @@ Windows                  2 hrs 11 mins       █░░░░░░░░░░�
 **I Mostly Code in Apex** 
 
 ```text
-Apex                     30 repos            ██████████████░░░░░░░░░░░   56.60 % 
-JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Apex                     31 repos            ██████████████░░░░░░░░░░░   57.41 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
@@ -140,7 +142,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 14:06:52 UTC
+ Last Updated on 31/05/2024 16:06:55 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
