@@ -68,13 +68,13 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 196.7 kB Used in GitHub's Storage 
+> 📦 199.6 kB Used in GitHub's Storage 
  > 
 > 🏆 199 Contributions in the Year 2024
  > 
@@ -142,7 +142,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2024 12:10:09 UTC
+ Last Updated on 11/07/2024 14:07:07 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
