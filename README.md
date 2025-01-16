@@ -74,7 +74,7 @@ npx shekharh500
 
 **🐱 My GitHub Data** 
 
-> 📦 340.2 kB Used in GitHub's Storage 
+> 📦 340.7 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2025
  > 
@@ -82,7 +82,7 @@ npx shekharh500
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 80 Private Repositories 
+> 🔑 81 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -128,9 +128,9 @@ Mac                      24 hrs 47 mins      ███████████�
 **I Mostly Code in Apex** 
 
 ```text
-Apex                     48 repos            ███████████████░░░░░░░░░░   60.76 % 
-JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-HTML                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Apex                     47 repos            ███████████████░░░░░░░░░░   58.75 % 
+JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+HTML                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 
 
@@ -140,7 +140,7 @@ HTML                     14 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 08:08:54 UTC
+ Last Updated on 16/01/2025 10:07:38 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
