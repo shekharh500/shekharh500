@@ -76,8 +76,6 @@ npx shekharh500
 
 > 📦 342.0 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -141,7 +139,7 @@ HTML                     14 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 00:27:11 UTC
+ Last Updated on 19/02/2025 02:29:11 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
