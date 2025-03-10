@@ -68,7 +68,7 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-166.4%20thousand%20lines%20of%20code-blue)
 
@@ -82,7 +82,7 @@ npx shekharh500
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 83 Private Repositories 
+> 🔑 84 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -129,9 +129,9 @@ Windows                  0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Apex** 
 
 ```text
-Apex                     47 repos            ██████████████░░░░░░░░░░░   57.32 % 
-JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-HTML                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Apex                     48 repos            ██████████████░░░░░░░░░░░   57.83 % 
+JavaScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+HTML                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 ```
 
 
@@ -141,7 +141,7 @@ HTML                     14 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 10:07:52 UTC
+ Last Updated on 10/03/2025 12:12:22 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
