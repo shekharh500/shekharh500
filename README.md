@@ -68,15 +68,13 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C326%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C326%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-864.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 360.1 kB Used in GitHub's Storage 
- > 
-> 🏆 23 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -140,7 +138,7 @@ HTML                     15 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 08:12:52 UTC
+ Last Updated on 04/08/2025 10:11:19 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
