@@ -68,6 +68,8 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2028%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -136,7 +138,7 @@ HTML                     16 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 20:08:56 UTC
+ Last Updated on 29/09/2025 00:31:38 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
