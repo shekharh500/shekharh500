@@ -111,16 +111,13 @@ Sunday                   129 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-OpenEdge ABL             11 mins             ██████████░░░░░░░░░░░░░░░   38.73 % 
-JavaScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-XML                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Gerber Image             3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Apex** 
@@ -138,7 +135,7 @@ HTML                     16 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 20:08:49 UTC
+ Last Updated on 15/11/2025 22:07:30 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
