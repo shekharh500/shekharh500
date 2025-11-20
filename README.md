@@ -68,7 +68,7 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C452%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -111,13 +111,15 @@ Sunday                   129 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      38 mins             ██████████████████████░░░   86.61 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+OpenEdge ABL             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Apex** 
@@ -135,7 +137,7 @@ HTML                     16 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 20:10:39 UTC
+ Last Updated on 20/11/2025 22:09:15 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
