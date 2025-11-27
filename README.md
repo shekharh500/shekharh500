@@ -68,15 +68,15 @@ npx shekharh500
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C454%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 387.8 kB Used in GitHub's Storage 
+> 📦 388.1 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2025
+> 🏆 111 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -111,17 +111,16 @@ Sunday                   129 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-XML                      38 mins             ██████████░░░░░░░░░░░░░░░   41.80 % 
-HTML                     29 mins             ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Markdown                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-OpenEdge ABL             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+HTML                     2 hrs               ██████████████████████░░░   86.55 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Apex** 
@@ -139,7 +138,7 @@ HTML                     18 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 20:08:49 UTC
+ Last Updated on 27/11/2025 22:08:47 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
