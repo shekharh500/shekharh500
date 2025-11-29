@@ -38,6 +38,53 @@ npx shekharh500
 </p>
 
 ---
+ 
+## About — Quick Summary
+
+- Salesforce Architect & Developer with 7+ years of hands-on experience (20,000+ billed hours) building scalable Salesforce solutions: integrations, AppExchange products, CPQ & Billing, CTI, and multi-cloud implementations.
+- Delivered 100+ projects for enterprise and SMB clients; published 3 AppExchange packages; holder of 10 Salesforce certifications.
+
+## Core Expertise
+
+- Apex, Lightning Web Components (LWC), Aura, Flows, Triggers, Batch & Queueable Apex
+- Integrations: REST/SOAP APIs, MuleSoft, Named Credentials, OAuth, middleware
+- AppExchange: Managed packages, LMA, security reviews, packaging
+- CPQ & Billing: Complex pricing, subscriptions, Stripe integrations
+- CTI & Telephony: Amazon Connect, RingCentral, Service Cloud Voice, IVR
+- Multi-cloud implementations: Sales, Service, Experience, Commerce, FSC
+
+## Certifications
+
+- 10x Salesforce Certified — examples: Platform Developer I & II, JavaScript Developer I, Administrator, Platform App Builder, Data Architect, Application Architect, Sharing & Visibility Architect, B2C Commerce Developer, Platform Foundations.
+
+## Selected Projects (high level)
+
+- Energy Sector Platform — Salesforce + MuleSoft + WooCommerce; CPQ & Billing; supported 3,500+ agent/users and 240+ ops users.
+- Roofing Operations — Service Cloud Voice, Amazon Connect CTI, Experience Cloud portals; improved call handling and built 2 portals.
+- Manufacturing CPQ — Salesforce CPQ + ERP integration; reduced quoting time by ~70% and increased revenue by ~25%.
+- Charity Fundraising — NPSP + Experience Cloud, integrated fundraising platforms using Zapier.
+- High Velocity Sales & Loan Automation — HVS setup, sales cadences, Flow automation; significantly reduced manual effort and approval times.
+
+## Experience Highlights
+
+- Salesforce Solution Architect & Developer — design and deliver custom solutions, integrations, and AppExchange products.
+- Technical Lead — led teams on Marketing Cloud, Pardot, and CPQ implementations.
+- Senior Salesforce Developer — built AppExchange apps and managed packaging/licensing.
+
+## Clients & Availability
+
+- 100+ projects completed; positive client feedback (case studies available in this repo and on request).
+- Available for contract & emergency fixes; offers free initial consultations.
+- Hire / Contact: [Upwork profile](https://www.upwork.com/freelancers/salesforcecertifiedexpert) • Email: `himanshu@aqbee.com`
+
+### Schedule & Free Consultation
+
+- Schedule a free consultation to discuss your Salesforce project. Offers an auto Google Meet link and a calendar invite for convenience. Free initial consultation and same-day emergency availability when possible.
+
+### Availability Snapshot
+
+- 7+ years experience • 20,000+ hours billed • 100+ projects • 10 certifications • 3 AppExchange apps
+
 <!--
 <p align='center'>
   
