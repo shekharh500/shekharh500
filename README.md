@@ -1,24 +1,30 @@
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 
-<h2 align="center"> <a href="https://www.salesforce.com/trailblazer/shekharh500"> <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white&label=Trailhead"/></a><br>  Your network is your net worth. Connect with me &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shekharh500/"><img img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<h2 align="center"> <a href="https://www.salesforce.com/trailblazer/shekharh500"> <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white&label=Trailhead"/></a>
+  <br>
+  <a href="https://www.linkedin.com/in/shekharh500/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </h2>
 
-<h1 align="center"> Hi there 👋! I'm Himanshu.</h1>
+<h1 align="center"> Hi there 👋 I'm Himanshu (shekharh500) — Salesforce Developer</h1>
 
-## npm package - Profile card 📦 
-<br>
+## Overview
 
-> Run the following command to know more about me
-
-<br> 
+This repository contains the personal GitHub profile README for `shekharh500`. It's a profile-focused repo used to showcase GitHub stats, badges, and links to my work and social profiles. The README also exposes a small convenience `npx` package to quickly view the profile details locally:
 
 ```
 npx shekharh500
 ```
 
+## Highlights
+
+- **Salesforce Trailblazer**: Salesforce certifications and AppExchange experience.
+- **Public presence**: GitHub stats, streaks, trophies and contribution visualizations.
+- **Quick profile CLI**: `npx shekharh500` — runs the profile card locally.
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&weight=100&size=25&duration=2000&pause=500&color=D25900FF&center=false&random=true&width=435&lines=%40shekharh500;9X+Salesforce+Certified;Developed+3%2B+AppExchange+App.;7X+Super+Badges" alt="Typing SVG" /></a>
 </p>
+
 <p align="center">
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/ba4fd445-d97d-4da3-b8a6-0740dd2a07ad" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/c0c805aa-fb91-4ebf-8e0d-9d20426c5131" width="85" height="85"/>
@@ -30,7 +36,8 @@ npx shekharh500
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3ce48d48-a484-447f-8010-e6f0972fe519" width="85" height="85"/>
  <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
 </p>
-<hr>
+
+---
 <!--
 <p align='center'>
   
