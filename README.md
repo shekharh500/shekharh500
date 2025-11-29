@@ -75,7 +75,7 @@ npx shekharh500
 
 - 100+ projects completed; positive client feedback (case studies available in this repo and on request).
 - Available for contract & emergency fixes; offers free initial consultations.
-- Hire / Contact: [Upwork profile](https://www.upwork.com/freelancers/salesforcecertifiedexpert) • Email: `himanshu@aqbee.com`
+ 
 
 ### Schedule & Free Consultation
 
@@ -106,20 +106,7 @@ npx shekharh500
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=shekharh500&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 <hr>
 
-## Github Stats &nbsp;📊
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=shekharh500&theme=light&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true">
-</p>
-<hr>
-
-## Most Used Languages 📚
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shekharh500&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note: Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
-<hr>
+<!-- GitHub stats and top languages removed per request -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2010%20mins-blue)
