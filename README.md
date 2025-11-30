@@ -109,7 +109,7 @@ npx shekharh500
 <!-- GitHub stats and top languages removed per request -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C458%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C458%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -152,17 +152,17 @@ Sunday                   140 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 53 mins       █████████████████░░░░░░░░   69.77 % 
-JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+HTML                     2 hrs 53 mins       █████████████████░░░░░░░░   69.41 % 
+JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Apex** 
@@ -180,7 +180,7 @@ HTML                     19 repos            ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 20:10:08 UTC
+ Last Updated on 30/11/2025 22:08:33 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
