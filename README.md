@@ -109,13 +109,13 @@ npx shekharh500
 <!-- GitHub stats and top languages removed per request -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 426.3 kB Used in GitHub's Storage 
+> 📦 426.5 kB Used in GitHub's Storage 
  > 
 > 🏆 437 Contributions in the Year 2025
  > 
@@ -152,17 +152,17 @@ Sunday                   126 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-OpenEdge ABL             1 hr 33 mins        ███████████░░░░░░░░░░░░░░   44.16 % 
-XML                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.76 % 
-JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+OpenEdge ABL             2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.90 % 
+JavaScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+XML                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Gerber Image             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Apex** 
@@ -181,7 +181,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2025 20:10:46 UTC
+ Last Updated on 30/12/2025 22:09:49 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
