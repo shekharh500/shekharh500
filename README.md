@@ -109,15 +109,13 @@ npx shekharh500
 <!-- GitHub stats and top languages removed per request -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C488%20hrs%2026%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.35%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 431.5 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 46 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -125,46 +123,6 @@ npx shekharh500
  > 
 > 🔑 115 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌃 Evening                254 commits         █████████░░░░░░░░░░░░░░░░   34.51 % 
-🌙 Night                  159 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Tuesday                  127 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Friday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Sunday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-OpenEdge ABL             2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-JavaScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.61 % 
-XML                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Gerber Image             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Apex** 
 
 ```text
@@ -181,7 +139,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 06:13:04 UTC
+ Last Updated on 03/01/2026 08:12:13 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
