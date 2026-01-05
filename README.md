@@ -109,7 +109,7 @@ npx shekharh500
 <!-- GitHub stats and top languages removed per request -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C503%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.36%20million%20lines%20of%20code-blue?style=flat)
 
@@ -152,17 +152,17 @@ Sunday                   132 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-OpenEdge ABL             2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
-JavaScript               2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
-XML                      1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Gerber Image             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+OpenEdge ABL             2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+XML                      2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Apex** 
@@ -181,7 +181,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 20:11:19 UTC
+ Last Updated on 05/01/2026 22:10:20 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
