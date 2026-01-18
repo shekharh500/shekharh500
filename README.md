@@ -125,6 +125,42 @@ npx shekharh500
  > 
 > 🔑 116 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+🌆 Daytime                245 commits         ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
+🌙 Night                  164 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Tuesday                  141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Thursday                 78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Friday                   147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Saturday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Sunday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Apex** 
 
 ```text
@@ -141,7 +177,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 23:40:43 UTC
+ Last Updated on 18/01/2026 02:11:38 UTC
 <!--END_SECTION:waka-->
 
 ## Trophies 🏆:
