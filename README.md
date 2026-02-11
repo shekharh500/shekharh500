@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=header&text=Himanshu%20Shekhar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Salesforce%20Solution%20Architect%20%26%20Developer&descAlignY=55&descSize=18"/>
+<h1 align="center">Himanshu Shekhar</h1>
+<h3 align="center">Salesforce Solution Architect & Developer</h3>
 
 <p align="center">
   <a href="https://www.salesforce.com/trailblazer/shekharh500"><img src="https://img.shields.io/badge/Salesforce_Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
@@ -173,4 +174,8 @@ Auto-sync multiple ICS calendar feeds to Google Calendar using Apps Script with 
   <img src="https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=flat-square&label=Profile+Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer"/>
+---
+
+<p align="center">
+  <sub>Made with ❤️ by Himanshu Shekhar</sub>
+</p>
