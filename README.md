@@ -49,13 +49,6 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 ## Tech Stack
 
-### Languages & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,html,css,vscode,git,github,aws,gcp,azure&perline=13" />
-  </a>
-</p>
-
 ### Salesforce Development
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -127,15 +120,6 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 ![Service Cloud Voice](https://img.shields.io/badge/Service_Cloud_Voice-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![8x8](https://img.shields.io/badge/8x8-0072CE?style=flat-square&logoColor=white)
 ![IVR](https://img.shields.io/badge/IVR_Systems-6B7280?style=flat-square&logoColor=white)
-
-### Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
