@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A1E0&height=150&section=header&text=Himanshu%20Shekhar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Salesforce%20Solution%20Architect%20%26%20Developer&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8F%86+10x+Salesforce+Certified+Professional;%F0%9F%93%A6+3+AppExchange+Apps+Published;%E2%9A%A1+20%2C000%2B+Hours+of+Enterprise+Solutions;%F0%9F%9A%80+100%2B+Projects+Delivered+Successfully;%F0%9F%94%A7+CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange;%F0%9F%92%BC+Available+for+Consulting+%26+Contract+Work" alt="Typing SVG" /></a>
+# Himanshu Shekhar
 
-<br/>
+**Salesforce Solution Architect & Developer**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=10x+Salesforce+Certified;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered;CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange" alt="Typing SVG" /></a>
 
 <br/>
 
