@@ -1,212 +1,103 @@
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
 
-<h2 align="center"> <a href="https://www.salesforce.com/trailblazer/shekharh500"> <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white&label=Trailhead"/></a>
-  <br>
-  <a href="https://www.linkedin.com/in/shekharh500/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-</h2>
-
-<h1 align="center"> Hi there 👋 I'm Himanshu (shekharh500) — Salesforce Developer</h1>
-
-## Overview
-
-This repository contains the personal GitHub profile README for `shekharh500`. It's a profile-focused repo used to showcase GitHub stats, badges, and links to my work and social profiles. The README also exposes a small convenience `npx` package to quickly view the profile details locally:
-
-```
-npx shekharh500
-```
-
-## Highlights
-
-- **Salesforce Trailblazer**: Salesforce certifications and AppExchange experience.
-- **Public presence**: GitHub stats, streaks, trophies and contribution visualizations.
-- **Quick profile CLI**: `npx shekharh500` — runs the profile card locally.
+<h1 align="center">Himanshu Shekhar</h1>
+<h3 align="center">Salesforce Architect & Developer</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&weight=100&size=25&duration=2000&pause=500&color=D25900FF&center=false&random=true&width=435&lines=%40shekharh500;9X+Salesforce+Certified;Developed+3%2B+AppExchange+App.;7X+Super+Badges" alt="Typing SVG" /></a>
+  <a href="https://www.salesforce.com/trailblazer/shekharh500"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://himanshu.aqbee.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <p align="center">
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/ba4fd445-d97d-4da3-b8a6-0740dd2a07ad" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/c0c805aa-fb91-4ebf-8e0d-9d20426c5131" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/9d72f356-ad54-44a3-9382-0fe19778a920" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/dd728a49-458b-4250-967b-de9c0792e69e" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3fa39da0-51a1-4ec8-9498-cfed12462255" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/62d73de4-b51a-4020-be4f-ab643d8afe9d" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/7f576321-406f-4856-96fb-7903e7f03c6c" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/3ce48d48-a484-447f-8010-e6f0972fe519" width="85" height="85"/>
- <img src="https://github.com/shekharh500/shekharh500/assets/46718471/fbdade35-1930-49af-9187-68c923f55d17" width="85" height="85"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=10x+Salesforce+Certified;3+AppExchange+Apps+Published;7%2B+Super+Badges;100%2B+Projects+Delivered" alt="Typing SVG" />
 </p>
 
 ---
- 
-## About — Quick Summary
 
-- Salesforce Architect & Developer with 7+ years of hands-on experience (20,000+ billed hours) building scalable Salesforce solutions: integrations, AppExchange products, CPQ & Billing, CTI, and multi-cloud implementations.
-- Delivered 100+ projects for enterprise and SMB clients; published 3 AppExchange packages; holder of 10 Salesforce certifications.
+## About
+
+Salesforce Architect with **7+ years** of experience building scalable enterprise solutions. Specialized in integrations, AppExchange products, CPQ & Billing, and CTI implementations.
+
+<table>
+  <tr>
+    <td align="center"><strong>7+</strong><br/>Years Experience</td>
+    <td align="center"><strong>20,000+</strong><br/>Hours Billed</td>
+    <td align="center"><strong>100+</strong><br/>Projects</td>
+    <td align="center"><strong>10</strong><br/>Certifications</td>
+    <td align="center"><strong>3</strong><br/>AppExchange Apps</td>
+  </tr>
+</table>
+
+---
 
 ## Core Expertise
 
-- Apex, Lightning Web Components (LWC), Aura, Flows, Triggers, Batch & Queueable Apex
-- Integrations: REST/SOAP APIs, MuleSoft, Named Credentials, OAuth, middleware
-- AppExchange: Managed packages, LMA, security reviews, packaging
-- CPQ & Billing: Complex pricing, subscriptions, Stripe integrations
-- CTI & Telephony: Amazon Connect, RingCentral, Service Cloud Voice, IVR
-- Multi-cloud implementations: Sales, Service, Experience, Commerce, FSC
+| Area | Technologies |
+|------|-------------|
+| **Development** | Apex, LWC, Aura, Flows, Triggers, Batch & Queueable |
+| **Integrations** | REST/SOAP APIs, MuleSoft, Named Credentials, OAuth |
+| **AppExchange** | Managed Packages, LMA, Security Reviews, ISV |
+| **CPQ & Billing** | Complex Pricing, Subscriptions, Stripe |
+| **CTI** | Amazon Connect, RingCentral, Service Cloud Voice |
+| **Multi-Cloud** | Sales, Service, Marketing, Experience, Commerce, FSC |
+
+---
 
 ## Certifications
 
-- 10x Salesforce Certified — examples: Platform Developer I & II, JavaScript Developer I, Administrator, Platform App Builder, Data Architect, Application Architect, Sharing & Visibility Architect, B2C Commerce Developer, Platform Foundations.
-
-## Selected Projects (high level)
-
-- Energy Sector Platform — Salesforce + MuleSoft + WooCommerce; CPQ & Billing; supported 3,500+ agent/users and 240+ ops users.
-- Roofing Operations — Service Cloud Voice, Amazon Connect CTI, Experience Cloud portals; improved call handling and built 2 portals.
-- Manufacturing CPQ — Salesforce CPQ + ERP integration; reduced quoting time by ~70% and increased revenue by ~25%.
-- Charity Fundraising — NPSP + Experience Cloud, integrated fundraising platforms using Zapier.
-- High Velocity Sales & Loan Automation — HVS setup, sales cadences, Flow automation; significantly reduced manual effort and approval times.
-
-## Experience Highlights
-
-- Salesforce Solution Architect & Developer — design and deliver custom solutions, integrations, and AppExchange products.
-- Technical Lead — led teams on Marketing Cloud, Pardot, and CPQ implementations.
-- Senior Salesforce Developer — built AppExchange apps and managed packaging/licensing.
-
-## Clients & Availability
-
-- 100+ projects completed; positive client feedback (case studies available in this repo and on request).
-- Available for contract & emergency fixes; offers free initial consultations.
- 
-
-### Schedule & Free Consultation
-
-- Schedule a free consultation to discuss your Salesforce project. Offers an auto Google Meet link and a calendar invite for convenience. Free initial consultation and same-day emergency availability when possible.
-
-### Availability Snapshot
-
-- 7+ years experience • 20,000+ hours billed • 100+ projects • 10 certifications • 3 AppExchange apps
-
-<!--
-<p align='center'>
-  
-  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/shekharh500/custom-icon-badges?logo=history&color=green&logoColor=white" />
-  <img alt="Contributors" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
-  <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/languages/code-size/shekharh500/custom-icon-badges?logo=file-code&logoColor=white" />
-      <img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues-raw/shekharh500/custom-icon-badges?logo=issue" />
-   <img alt="GitHub pull requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/shekharh500/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white" />
-  <img alt="GitHub Streaks" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dshekharh500%26type%3Djson" />
-</p> -->
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=shekharh500">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Star" src="https://img.shields.io/github/stars/shekharh500?logo=star&cacheSeconds=2592000" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/shekharh500?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.visitorbadge.io/api/visitors?path=shekharh500&countColor=%23263759&style=plastic" />
+<p>
+  <img src="https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform_Developer_II-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform_App_Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sharing_&_Visibility-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B2C_Commerce_Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Application_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
 </p>
 
-## Github Contribution Streak 🔥 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=shekharh500&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-<hr>
+---
 
-<!-- GitHub stats and top languages removed per request -->
+## Featured Projects
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C515%20hrs%2013%20mins-blue?style=flat)
+**Energy Sector Platform** — Salesforce + MuleSoft + WooCommerce integration with CPQ & Billing. Supported 3,500+ agents and 240+ operations users.
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.95%20million%20lines%20of%20code-blue?style=flat)
+**Roofing Operations** — Service Cloud Voice with Amazon Connect CTI and Experience Cloud portals. Built 2 customer portals with 100% call recording.
 
-**🐱 My GitHub Data** 
+**Manufacturing CPQ** — Salesforce CPQ + ERP integration. Reduced quoting time by 70% and increased revenue by 25%.
 
-> 📦 439.8 kB Used in GitHub's Storage 
- > 
-> 🏆 228 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 124 Private Repositories 
- > 
-**I'm a Night 🦉** 
+**Charity Fundraising** — NPSP + Experience Cloud with Funraisin and JustGiving integrations via Zapier.
 
-```text
-🌞 Morning                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-🌆 Daytime                273 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-🌃 Evening                345 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌙 Night                  172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+---
 
-```text
-Monday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Tuesday                  189 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Wednesday                125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Thursday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday                 127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-```
+## Open Source
 
+<a href="https://github.com/shekharh500/google-meet-scheduler-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharh500&repo=google-meet-scheduler-demo&theme=default&hide_border=true" />
+</a>
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+## GitHub Stats
 
-💬 Programming Languages: 
-XML                      2 hrs 45 mins       ████████████████░░░░░░░░░   64.38 % 
-HTML                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-OpenEdge ABL             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 16 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Apex** 
-
-```text
-Apex                     69 repos            ██████████████░░░░░░░░░░░   55.20 % 
-JavaScript               30 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-HTML                     20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-DataWeave                4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/shekharh500/shekharh500/main/assets/bar_graph.png)
-
-
- Last Updated on 11/02/2026 04:56:40 UTC
-<!--END_SECTION:waka-->
-
-## Trophies 🏆:
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=shekharh500&theme=flat&no-frame=true&margin-w=15&margin-h=15">
-</p>
-<hr>
-
-## Quotes 📜:
-<br>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=shekharh500&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekharh500&theme=default&hide_border=true" height="165"/>
 </p>
 
-##
+---
 
-<h2 align='center'>Every success tale starts with a connection. Join me! <br><br> <a align="center" href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-</h2>
+## Let's Connect
 
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<p align="center">
+  <a href="https://himanshu.aqbee.com/meet"><img src="https://img.shields.io/badge/Schedule_a_Call-00A1E0?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+</p>
 
-<h2 align='center'>Thank You!!!!!
-<br>
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</h2>
+<p align="center">
+  <em>Available for Salesforce consulting, architecture reviews, and development projects.</em>
+</p>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
