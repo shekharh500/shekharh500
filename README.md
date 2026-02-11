@@ -389,8 +389,6 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-## Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
 </p>
