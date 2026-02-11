@@ -1,8 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
+
 <div align="center">
 
 # Himanshu Shekhar
 
 **Salesforce Solution Architect & Developer**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=10x+Salesforce+Certified;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered" alt="Typing SVG" /></a>
+
+<br/>
 
 [![Trailhead](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekharh500/)
@@ -301,6 +307,10 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
 
 **Available for:** Contract work · Architecture reviews · Emergency fixes · Same-day response
 
-![Profile Views](https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=flat-square&label=Profile+Views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
