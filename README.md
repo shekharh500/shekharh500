@@ -23,10 +23,6 @@
 ![20K+ Hours](https://img.shields.io/badge/20K+-Hours_Billed-green?style=for-the-badge)
 ![3 Apps](https://img.shields.io/badge/3-AppExchange_Apps-purple?style=for-the-badge)
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shekharh500&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
-
 </div>
 
 ---
