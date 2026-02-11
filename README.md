@@ -18,25 +18,23 @@
 
 ---
 
-<h2>About Me</h2>
+## 👨‍💻 About Me
 
 Salesforce Solution Architect with **7+ years** of hands-on experience designing and building enterprise-grade solutions. I specialize in complex integrations, AppExchange product development, CPQ & Billing implementations, and CTI systems.
 
 I've helped **100+ clients** transform their Salesforce orgs — from startups figuring out their first implementation to enterprises recovering from failed projects.
 
-<table>
-  <tr>
-    <td align="center"><h3>7+</h3><sub>Years Experience</sub></td>
-    <td align="center"><h3>20,000+</h3><sub>Hours Billed</sub></td>
-    <td align="center"><h3>100+</h3><sub>Projects Delivered</sub></td>
-    <td align="center"><h3>10</h3><sub>Certifications</sub></td>
-    <td align="center"><h3>3</h3><sub>AppExchange Apps</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/7%2B-Years%20Experience-0A66C2?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/20%2C000%2B-Hours%20Billed-0A66C2?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/100%2B-Projects%20Delivered-0A66C2?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/10-Certifications-0A66C2?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/3-AppExchange%20Apps-0A66C2?style=for-the-badge&labelColor=000000"/>
+</p>
 
 ---
 
-<h2>Core Expertise</h2>
+## 🛠️ Core Expertise
 
 <table>
   <tr>
@@ -73,7 +71,7 @@ I've helped **100+ clients** transform their Salesforce orgs — from startups f
 
 ---
 
-<h2>Certifications</h2>
+## 🏅 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
@@ -92,20 +90,20 @@ I've helped **100+ clients** transform their Salesforce orgs — from startups f
 
 ---
 
-<h2>Featured Projects</h2>
+## 🚀 Featured Projects
 
 | Project | Description | Impact |
 |---------|-------------|--------|
 | **Energy Sector Platform** | Salesforce + MuleSoft + WooCommerce with CPQ & Billing | 3,500+ agents, 240+ ops users |
 | **Roofing Operations** | Service Cloud Voice, Amazon Connect CTI, Experience Cloud | 2 portals, 100% call recording |
-| **Manufacturing CPQ** | Salesforce CPQ + ERP integration, automated product selection | 70% faster quoting, 25% revenue increase |
+| **Manufacturing CPQ** | Salesforce CPQ + ERP integration, automated product selection | 70% faster quoting, 25% revenue ↑ |
 | **Charity Fundraising** | NPSP + Experience Cloud with Funraisin, JustGiving via Zapier | 4 platforms integrated |
 | **High Velocity Sales** | Sales cadence automation, lead scoring, engagement tracking | 40% efficiency gain |
 | **Loan Automation** | FSC customization with approval workflows | 80% less manual work |
 
 ---
 
-<h2>Tech Stack</h2>
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
@@ -115,71 +113,99 @@ I've helped **100+ clients** transform their Salesforce orgs — from startups f
   <img src="https://img.shields.io/badge/SOQL-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFDX-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
 </p>
 
-**Clouds:** Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud, CPQ, Billing, NPSP, FSC, Health Cloud, Commerce B2C, Pardot, Data Cloud
-
-**Integrations:** Stripe, PandaDoc, Conga, DocuSign, Twilio, Zapier, AWS, HubSpot, Zoho CRM
-
-**CTI:** Amazon Connect, RingCentral, 8x8, Service Cloud Voice
-
-**DevOps:** Git, GitLab CI/CD, SFDX, Copado, Jest, Data Loader
+| Category | Technologies |
+|----------|-------------|
+| **Clouds** | Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud, CPQ, Billing, NPSP, FSC, Health Cloud, Commerce B2C, Pardot, Data Cloud |
+| **Integrations** | Stripe, PandaDoc, Conga, DocuSign, Twilio, Zapier, AWS, HubSpot, Zoho CRM |
+| **CTI** | Amazon Connect, RingCentral, 8x8, Service Cloud Voice |
+| **DevOps** | Git, GitLab CI/CD, SFDX, Copado, Jest, Data Loader |
 
 ---
 
-<h2>Open Source</h2>
+## 📂 Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📅 Google Meet Scheduler</h3>
+      <p>Self-hosted meeting scheduler with Google Calendar integration, OTP verification, and automatic Meet link generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/shekharh500/google-meet-scheduler-demo" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://shekharh500.github.io/google-meet-scheduler-demo/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔄 Multi-ICS Calendar Sync</h3>
+      <p>Auto-sync multiple ICS calendar feeds to Google Calendar using Apps Script. Includes auto cleanup and color coding.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/shekharh500/multi-ics-calendar-sync" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2024 - Present | **Salesforce Solution Architect** | AQBEE Innovations |
+| 2022 - 2024 | **Salesforce Technical Lead** | Cloudsheer Consulting |
+| 2020 - 2022 | **Senior Salesforce Developer** | Kcloud Technologies |
+| 2019 - 2020 | **Salesforce Developer** | Kcloud Technologies |
+| 2019 | **Salesforce Admin/Developer** | AlmaMate Info Tech |
+| 2018 - 2019 | **Java Developer** | NASSCOM |
+| 2017 - 2018 | **C/C++ Developer** | NIIT Limited |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/shekharh500/google-meet-scheduler-demo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharh500&repo=google-meet-scheduler-demo&theme=default&hide_border=true&bg_color=ffffff" />
-  </a>
-</p>
-
-**Google Meet Scheduler** — Self-hosted meeting scheduler with Google Calendar integration, OTP verification, and automatic Meet link generation. Fork it and deploy your own booking page.
-
----
-
-<h2>Experience</h2>
-
-```
-2024 - Present   Salesforce Solution Architect    AQBEE Innovations
-2022 - 2024      Salesforce Technical Lead        Cloudsheer Consulting
-2020 - 2022      Senior Salesforce Developer      Kcloud Technologies
-2019 - 2020      Salesforce Developer             Kcloud Technologies
-2019             Salesforce Admin/Developer       AlmaMate Info Tech
-2018 - 2019      Java Developer                   NASSCOM
-2017 - 2018      C/C++ Developer                  NIIT Limited
-```
-
----
-
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shekharh500&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekharh500&theme=default&hide_border=true&background=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shekharh500&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekharh500&theme=default&hide_border=true&background=ffffff" height="180"/>
 </p>
 
 ---
 
-<h2>Let's Work Together</h2>
+## 🤝 Let's Work Together
 
 <p align="center">
   Got a Salesforce challenge? Whether it's a messy org, a tricky integration, or building something from scratch — I'd love to hear about it.
 </p>
 
 <p align="center">
-  <a href="https://himanshu-shekhar.com/meeting" target="_blank"><img src="https://img.shields.io/badge/Book_a_Free_Consultation-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
-  <a href="https://himanshu-shekhar.com/MyProfile3p6r9o" target="_blank"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com/meeting" target="_blank"><img src="https://img.shields.io/badge/📅_Book_a_Free_Consultation-10B981?style=for-the-badge"/></a>
+  <a href="https://himanshu-shekhar.com/MyProfile3p6r9o" target="_blank"><img src="https://img.shields.io/badge/👤_View_Portfolio-000000?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <sub>Available for contract work & emergency fixes • Same-day response</sub>
+  <strong>Available for contract work & emergency fixes</strong><br/>
+  <sub>Same-day response • Free initial consultation</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=flat-square&label=Profile+Views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
