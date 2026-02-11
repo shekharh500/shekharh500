@@ -1,181 +1,169 @@
-<h1 align="center">Himanshu Shekhar</h1>
-<h3 align="center">Salesforce Solution Architect & Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.salesforce.com/trailblazer/shekharh500"><img src="https://img.shields.io/badge/Salesforce_Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://himanshu-shekhar.com/meeting"><img src="https://img.shields.io/badge/Book_Free_Meeting-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
-</p>
+# 👋 Hi, I'm Himanshu Shekhar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=10x+Salesforce+Certified+Professional;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered+Worldwide" alt="Typing SVG" />
-</p>
+### Salesforce Solution Architect & Developer
 
----
+[![Salesforce](https://img.shields.io/badge/Salesforce_Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekharh500/)
+[![Book Meeting](https://img.shields.io/badge/Book_Free_Meeting-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://himanshu-shekhar.com/meeting)
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=10x+Salesforce+Certified+Professional;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered+Worldwide" alt="Typing SVG" />
 
-> *"One of the hidden treasures in the Salesforce Ecosystem"* — Client Testimonial
-
-I'm a **Salesforce Solution Architect** with **7+ years** of experience turning complex business challenges into elegant, scalable solutions. I specialize in **integrations**, **AppExchange products**, **CPQ & Billing**, and **CTI implementations**.
-
-```yaml
-Currently: Building enterprise integrations & AppExchange products at AQBEE Innovations
-Experience: 7+ years | 20,000+ hours billed | 100+ projects delivered
-Expertise: CPQ • CTI • Multi-Cloud • Integrations • AppExchange Development
-Available: Contract work, consulting & emergency fixes (same-day response)
-```
+</div>
 
 ---
 
-## Quick Stats
+## 🧑‍💻 About Me
 
-<p align="center">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+> *"One of the hidden treasures in the Salesforce Ecosystem"* — Client
+
+I'm a **Salesforce Solution Architect** turning complex business challenges into elegant, scalable solutions.
+
+- 🔭 Building **enterprise integrations** & **AppExchange products**
+- 🏆 Published **3 apps** on Salesforce AppExchange
+- 💼 Delivered **100+ projects** for clients worldwide
+- 🚀 Specialize in **CPQ, CTI, Multi-Cloud** implementations
+- ⚡ **Emergency fixes** with same-day response
+
+<br clear="right"/>
+
+---
+
+## 📊 Quick Stats
+
+<div align="center">
 
 | 🗓️ Experience | ⏱️ Hours Billed | 📁 Projects | 🏅 Certifications | 📦 AppExchange |
 |:-------------:|:---------------:|:-----------:|:-----------------:|:--------------:|
 | **7+ Years** | **20,000+** | **100+** | **10** | **3 Apps** |
 
-</p>
+</div>
 
 ---
 
-## Core Expertise
+## 🛠️ Core Expertise
 
-### Development & Architecture
-```
-Apex • Lightning Web Components • Aura • Visualforce • Flows • Triggers
-SOQL/SOSL • Platform Events • Batch Apex • Queueable • Data Modeling • Security
-```
+<div align="center">
 
-### Integrations (20+ Platforms Connected)
-```
-REST/SOAP APIs • MuleSoft • Named Credentials • OAuth • Middleware
-Stripe • PandaDoc • DocuSign • Twilio • Zapier • AWS
-```
+| Development | Integrations | Clouds |
+|:-----------:|:------------:|:------:|
+| Apex, LWC, Aura | REST/SOAP APIs | Sales Cloud |
+| Flows, Triggers | MuleSoft | Service Cloud |
+| Batch, Queueable | Stripe, Twilio | Experience Cloud |
+| Data Modeling | DocuSign, Zapier | CPQ & Billing |
 
-### Salesforce Clouds
-```
-Sales Cloud • Service Cloud • Experience Cloud • Marketing Cloud
-CPQ • Billing • NPSP • FSC • Health Cloud • Commerce B2C • Data Cloud
-```
+</div>
 
-### Specialized Solutions
-| Area | Technologies |
-|------|-------------|
-| **AppExchange** | 3 Managed Packages, ISV Reviews, LMA, Security Reviews, Licensing |
-| **CPQ & Billing** | Complex Pricing, Product Bundling, Subscriptions, Stripe Integration |
-| **CTI & Telephony** | Amazon Connect, RingCentral, 8x8, Service Cloud Voice, IVR |
+### Specialized Areas
+
+| 📦 AppExchange | 💰 CPQ & Billing | 📞 CTI & Telephony |
+|:--------------|:----------------|:------------------|
+| 3 Managed Packages | Complex Pricing Rules | Amazon Connect |
+| ISV & Security Reviews | Subscription Billing | RingCentral, 8x8 |
+| LMA Setup & Licensing | Stripe Integration | Service Cloud Voice |
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Platform_Developer_II-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/App_Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Application_Architect-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sharing_Visibility-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/B2C_Commerce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-</p>
+<div align="center">
+
+![Platform Dev I](https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Platform Dev II](https://img.shields.io/badge/Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![JS Dev I](https://img.shields.io/badge/JavaScript_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Admin](https://img.shields.io/badge/Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![App Builder](https://img.shields.io/badge/App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+![Data Architect](https://img.shields.io/badge/Data_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![App Architect](https://img.shields.io/badge/Application_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Sharing](https://img.shields.io/badge/Sharing_Visibility-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![B2C](https://img.shields.io/badge/B2C_Commerce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Tech Stack | Impact |
-|---------|-----------|--------|
-| **Energy Sector Platform** | Salesforce + MuleSoft + WooCommerce + CPQ | 3,500+ agents, 240+ ops users |
-| **Roofing Operations** | Service Cloud Voice + Amazon Connect + CTI | 2 portals, 100% call recording |
-| **Manufacturing CPQ** | Salesforce CPQ + ERP Integration | 70% faster quoting, 25% revenue increase |
-| **Charity Fundraising** | NPSP + Experience Cloud + Zapier | 4 platforms integrated, 2 portals |
-| **High Velocity Sales** | Sales Cadences + Lead Scoring + Automation | 40% efficiency gain |
-| **Loan Automation** | FSC + Approval Workflows | 80% reduction in manual work |
+|:--------|:-----------|:-------|
+| ⚡ **Energy Sector Platform** | Salesforce + MuleSoft + CPQ | 3,500+ agents, 240+ ops |
+| 🏠 **Roofing Operations** | Service Cloud Voice + CTI | 2 portals, 100% recording |
+| 🏭 **Manufacturing CPQ** | CPQ + ERP Integration | 70% faster, 25% revenue ↑ |
+| 💚 **Charity Fundraising** | NPSP + Experience Cloud | 4 platforms integrated |
+| 📈 **High Velocity Sales** | Sales Cadences + Automation | 40% efficiency gain |
+| 🏦 **Loan Automation** | FSC + Workflows | 80% less manual work |
 
 ---
 
-## Open Source Projects
+## 📂 Open Source
 
 ### 📅 Google Meet Scheduler
-Self-hosted meeting scheduler with Google Calendar integration, OTP verification, and automatic Meet link generation.
+> Self-hosted meeting scheduler with Google Calendar, OTP verification & auto Meet links
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/google-meet-scheduler-demo)
-[![Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://shekharh500.github.io/google-meet-scheduler-demo/)
+[![View Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/google-meet-scheduler-demo)
+[![Live Demo](https://img.shields.io/badge/Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://shekharh500.github.io/google-meet-scheduler-demo/)
 
 `HTML` `Node.js` `Google Calendar API` `Vercel`
 
----
-
 ### 🔄 Multi-ICS Calendar Sync
-Auto-sync multiple ICS calendar feeds to Google Calendar using Apps Script with auto cleanup and color coding.
+> Auto-sync multiple ICS feeds to Google Calendar with cleanup & color coding
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/multi-ics-calendar-sync)
+[![View Code](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/multi-ics-calendar-sync)
 
-`JavaScript` `Google Apps Script` `Google Calendar`
+`JavaScript` `Google Apps Script`
 
 ---
 
-## Career Timeline
+## 💼 Career Timeline
 
 | Period | Role | Company |
-|--------|------|---------|
+|:-------|:-----|:--------|
 | 2024 - Present | **Salesforce Solution Architect** | AQBEE Innovations |
 | 2022 - 2024 | Salesforce Technical Lead | Cloudsheer Consulting |
 | 2020 - 2022 | Senior Salesforce Developer | Kcloud Technologies |
 | 2019 - 2020 | Salesforce Developer | Kcloud Technologies |
-| 2019 | Salesforce Admin/Developer | AlmaMate Info Tech |
 | 2017 - 2019 | Java / C++ Developer | NASSCOM / NIIT |
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shekharh500&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=10B981" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekharh500&theme=default&hide_border=true&ring=0A66C2&fire=10B981&currStreakLabel=0A66C2" height="170"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=shekharh500&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=10B981" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shekharh500&theme=default&hide_border=true&ring=0A66C2&fire=10B981&currStreakLabel=0A66C2" height="170"/>
 
-## Client Testimonials
-
-💬 *"Himanshu has done an excellent job in our Real Estate projects. When the project was stuck, he worked very hard to find solutions. The project went from being blocked to becoming one of the highest revenue-generating parts of the company."*
-
-💬 *"After a bad experience with another freelancer, Himanshu came in and turned things around quickly. He's responsive, sharp, and just easy to work with. Honestly one of the best developers we've worked with."*
-
-💬 *"Working with Himanshu on a Salesforce project was a game-changer. Not only did he bring superb technical knowledge but also a knack for simplifying complex issues."*
+</div>
 
 ---
 
-## Let's Connect
+## 💬 What Clients Say
 
-<p align="center">
-  <b>Got a Salesforce challenge? Let's talk.</b>
-</p>
+> 💬 *"When the project was stuck, he worked very hard to find solutions. The project went from being blocked to becoming one of the highest revenue-generating parts of the company."* — **Real Estate Client**
 
-<p align="center">
-  <a href="https://himanshu-shekhar.com/meeting">
-    <img src="https://img.shields.io/badge/📅_Book_a_Free_Consultation-10B981?style=for-the-badge"/>
-  </a>
-</p>
+> 💬 *"After a bad experience with another freelancer, Himanshu came in and turned things around quickly. Honestly one of the best developers we've worked with."* — **High Tech Client**
 
-<p align="center">
-  ✅ Available for contract work &nbsp;•&nbsp; ⚡ Same-day emergency response &nbsp;•&nbsp; 🆓 Free initial consultation
-</p>
+> 💬 *"Working with Himanshu was a game-changer. He brought superb technical knowledge and a knack for simplifying complex issues."* — **Screen Flow Client**
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=flat-square&label=Profile+Views"/>
-</p>
+## 🤝 Let's Work Together
+
+<div align="center">
+
+**Got a Salesforce challenge? Let's talk.**
+
+[![Book Meeting](https://img.shields.io/badge/📅_Book_Free_Consultation-10B981?style=for-the-badge)](https://himanshu-shekhar.com/meeting)
+
+✅ Contract work available • ⚡ Same-day emergency response • 🆓 Free initial consultation
 
 ---
 
-<p align="center">
-  <sub>Made with ❤️ by Himanshu Shekhar</sub>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=flat-square&label=Profile+Views)
+
+</div>
