@@ -4,10 +4,10 @@
 <h3 align="center">Salesforce Solution Architect & Developer</h3>
 
 <p align="center">
-  <a href="https://www.salesforce.com/trailblazer/shekharh500"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://himanshu-shekhar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://himanshu-shekhar.com/meeting"><img src="https://img.shields.io/badge/Book_Meeting-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+  <a href="https://www.salesforce.com/trailblazer/shekharh500" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shekharh500/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com/MyProfile3p6r9o" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com/meeting" target="_blank"><img src="https://img.shields.io/badge/Book_Meeting-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ I've helped **100+ clients** transform their Salesforce orgs — from startups f
 <h2>Open Source</h2>
 
 <p align="center">
-  <a href="https://github.com/shekharh500/google-meet-scheduler-demo">
+  <a href="https://github.com/shekharh500/google-meet-scheduler-demo" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharh500&repo=google-meet-scheduler-demo&theme=default&hide_border=true&bg_color=ffffff" />
   </a>
 </p>
@@ -174,8 +174,8 @@ I've helped **100+ clients** transform their Salesforce orgs — from startups f
 </p>
 
 <p align="center">
-  <a href="https://himanshu-shekhar.com/meeting"><img src="https://img.shields.io/badge/Book_a_Free_Consultation-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
-  <a href="https://himanshu-shekhar.com"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com/meeting" target="_blank"><img src="https://img.shields.io/badge/Book_a_Free_Consultation-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com/MyProfile3p6r9o" target="_blank"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <p align="center">
