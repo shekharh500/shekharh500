@@ -225,13 +225,16 @@ AI scheduling assistant with natural language updates. **60% faster dispatch** �
 
 <table>
 <tr>
-<td align="center" width="14%">🚀<br/><b>DevOps</b></td>
-<td align="center" width="14%">💰<br/><b>CPQ</b></td>
-<td align="center" width="14%">🔧<br/><b>Recovery</b></td>
-<td align="center" width="14%">✅<br/><b>Testing</b></td>
-<td align="center" width="14%">⚡<br/><b>Flows</b></td>
-<td align="center" width="14%">📞<br/><b>CTI</b></td>
-<td align="center" width="14%">💵<br/><b>Consult</b></td>
+<td align="center"><b>DevOps</b></td>
+<td align="center"><b>CPQ</b></td>
+<td align="center"><b>Recovery</b></td>
+<td align="center"><b>Testing</b></td>
+<td align="center"><b>Flows</b></td>
+<td align="center"><b>CTI</b></td>
+<td align="center"><b>Consult</b></td>
+<td align="center"><b>Portal</b></td>
+<td align="center"><b>Sales</b></td>
+<td align="center"><b>Loans</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Before-2--3_hrs-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-15_min-green?style=flat-square"/></td>
@@ -241,14 +244,19 @@ AI scheduling assistant with natural language updates. **60% faster dispatch** �
 <td align="center"><img src="https://img.shields.io/badge/Before-12_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-3_min-green?style=flat-square"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Before-12_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-7_min-green?style=flat-square"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Before-$300K-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/Saved-$80K-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-8_sec-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-1.2_sec-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-3--5_days-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-Same_day-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-Manual-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-80%25_Auto-green?style=flat-square"/></td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🏆_70%25_Faster_Quoting-00A1E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📈_40%25_Higher_Conversion-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_90%25_Fewer_Errors-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💰_$80K_Saved-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/70%25_Faster_Quoting-00A1E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/40%25_Higher_Conversion-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/90%25_Fewer_Errors-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/$80K_Saved-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/35%25_Sales_Productivity-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/60%25_Faster_Dispatch-E65100?style=for-the-badge"/>
 </p>
 
 ---
@@ -377,7 +385,7 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
 </tr>
 </table>
 
-<p align="center"><i>...and 10+ more happy clients</i></p>
+<p align="center"><b>...and 100+ more happy clients worldwide</b></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
