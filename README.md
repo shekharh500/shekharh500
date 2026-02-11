@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A1E0&height=150&section=header&text=Himanshu%20Shekhar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Salesforce%20Solution%20Architect%20%26%20Developer&descSize=20&descAlignY=55"/>
 
 <div align="center">
 
-# Himanshu Shekhar
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8F%86+10x+Salesforce+Certified+Professional;%F0%9F%93%A6+3+AppExchange+Apps+Published;%E2%9A%A1+20%2C000%2B+Hours+of+Enterprise+Solutions;%F0%9F%9A%80+100%2B+Projects+Delivered+Successfully;%F0%9F%94%A7+CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange;%F0%9F%92%BC+Available+for+Consulting+%26+Contract+Work" alt="Typing SVG" /></a>
 
-**Salesforce Solution Architect & Developer**
+<br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=10x+Salesforce+Certified;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
@@ -23,15 +23,31 @@
 ![20K+ Hours](https://img.shields.io/badge/20K+-Hours_Billed-green?style=for-the-badge)
 ![3 Apps](https://img.shields.io/badge/3-AppExchange_Apps-purple?style=for-the-badge)
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shekharh500&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
+
 </div>
 
 ---
 
 ## About
 
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+
 Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building enterprise solutions. I specialize in complex integrations, AppExchange products, CPQ & Billing, and CTI implementations.
 
+**What I Do:**
+- 🏗️ Design & build scalable Salesforce architectures
+- 🔗 Integrate 30+ enterprise platforms
+- 📦 Develop AppExchange managed packages
+- 💰 Implement CPQ & Billing solutions
+- 📞 Deploy CTI & telephony systems
+- 🚀 Rescue failing projects
+
 > *"One of the hidden treasures in the Salesforce Ecosystem"* — Client
+
+<br clear="right"/>
 
 ---
 
