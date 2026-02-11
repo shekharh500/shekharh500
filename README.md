@@ -248,8 +248,7 @@ Auto-sync multiple ICS calendar feeds to Google Calendar using Apps Script with 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shekharh500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shekharh500&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shekharh500&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" height="200" />
 
 </div>
 
