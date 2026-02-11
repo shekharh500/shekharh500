@@ -45,9 +45,16 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 <br clear="right"/>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## Tech Stack
+
+### Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,html,css,vscode,git,github,aws,gcp,azure&perline=13" />
+  </a>
+</p>
 
 ### Salesforce Development
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -280,22 +287,57 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
 
 ---
 
-## Client Testimonials
+## Industries Served
+
+<p align="center">
+
+![Energy](https://img.shields.io/badge/⚡_Energy_&_Utilities-1E3A5F?style=for-the-badge)
+![Real Estate](https://img.shields.io/badge/🏠_Real_Estate-2E7D32?style=for-the-badge)
+![Manufacturing](https://img.shields.io/badge/🏭_Manufacturing-FF6F00?style=for-the-badge)
+![Financial](https://img.shields.io/badge/🏦_Financial_Services-1565C0?style=for-the-badge)
+![Healthcare](https://img.shields.io/badge/🏥_Healthcare-C62828?style=for-the-badge)
+![Nonprofit](https://img.shields.io/badge/💚_Nonprofit-388E3C?style=for-the-badge)
+![Media](https://img.shields.io/badge/📺_Media_&_Advertising-7B1FA2?style=for-the-badge)
+![Construction](https://img.shields.io/badge/🔨_Construction-795548?style=for-the-badge)
+![High Tech](https://img.shields.io/badge/💻_High_Tech-0288D1?style=for-the-badge)
+![Retail](https://img.shields.io/badge/🛒_Retail_&_eCommerce-E65100?style=for-the-badge)
+
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
+## Client Testimonials (15+ Reviews)
 
 <table>
 <tr>
 <td width="50%">
 
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **DevOps Client**
+
+*"Himanshu is one of the hidden treasures in the Salesforce Ecosystem. He built one of the best development pipeline processes using GitLab and Salesforce Integration."*
+
+</td>
+<td width="50%">
+
 ![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **Real Estate Client**
 
-*"When the project was stuck, he worked very hard to find solutions. The project went from being blocked to becoming one of the highest revenue-generating parts of the company."*
+*"The project went from being blocked to becoming one of the highest revenue-generating parts of the company."*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **CPQ Client**
+
+*"His knowledge of Salesforce CPQ and Billing were critical for a unique customization challenge. Always up for the challenge."*
 
 </td>
 <td width="50%">
 
 ![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **High Tech Client**
 
-*"After a bad experience with another freelancer, Himanshu turned things around quickly. Honestly one of the best developers we've worked with."*
+*"After a bad experience with another freelancer, Himanshu turned things around quickly. One of the best developers we've worked with."*
 
 </td>
 </tr>
@@ -309,15 +351,25 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
 </td>
 <td width="50%">
 
-![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **Architecture Client**
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **Energy Client**
 
-*"Honest, vendor-neutral consultation saved us money. Clear roadmap and $80K saved on licenses."*
+*"Kudos for delivering outstanding work! Proactive communication made a real difference."*
 
 </td>
 </tr>
 </table>
 
----
+<p align="center"><i>...and 10+ more happy clients</i></p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
+## Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## GitHub Stats
 
@@ -325,7 +377,7 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shekharh500&theme=default&hide_border=true" height="170"/>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 <div align="center">
 
