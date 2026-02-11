@@ -223,15 +223,33 @@ AI scheduling assistant with natural language updates. **60% faster dispatch** �
 
 ## Impact Metrics
 
-| What I Did | Before | After |
-|------------|--------|-------|
-| **DevOps Pipeline** | 2-3 hour deployments | 15 minute deployments |
-| **CPQ + Stripe** | 45 min quote creation | 5 min quote creation |
-| **Failed Project Recovery** | 2 months overdue, 50% login failures | Launched in 3 weeks, 23 bugs fixed |
-| **Test Coverage Crisis** | 62% coverage, blocked deployment | 84% coverage in 5 days |
-| **Complex Flow Redesign** | 12 min completion, timing out | 3 min completion, 90% fewer errors |
-| **Service Cloud Voice** | 12 min handle time, 4 apps | 7 min handle time, single desktop |
-| **Architecture Consult** | $50K-$300K vendor quotes | Saved $80K on licenses |
+<table>
+<tr>
+<td align="center" width="14%">🚀<br/><b>DevOps</b></td>
+<td align="center" width="14%">💰<br/><b>CPQ</b></td>
+<td align="center" width="14%">🔧<br/><b>Recovery</b></td>
+<td align="center" width="14%">✅<br/><b>Testing</b></td>
+<td align="center" width="14%">⚡<br/><b>Flows</b></td>
+<td align="center" width="14%">📞<br/><b>CTI</b></td>
+<td align="center" width="14%">💵<br/><b>Consult</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Before-2--3_hrs-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-15_min-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-45_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-5_min-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-2_mo_late-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-3_weeks-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-62%25-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-84%25-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-12_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-3_min-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-12_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-7_min-green?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Before-$300K-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/Saved-$80K-green?style=flat-square"/></td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🏆_70%25_Faster_Quoting-00A1E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📈_40%25_Higher_Conversion-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_90%25_Fewer_Errors-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💰_$80K_Saved-9C27B0?style=for-the-badge"/>
+</p>
 
 ---
 
