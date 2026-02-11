@@ -225,28 +225,31 @@ AI scheduling assistant with natural language updates. **60% faster dispatch** Â
 
 <table>
 <tr>
-<td align="center"><b>DevOps</b></td>
-<td align="center"><b>CPQ</b></td>
-<td align="center"><b>Recovery</b></td>
-<td align="center"><b>Testing</b></td>
-<td align="center"><b>Flows</b></td>
-<td align="center"><b>CTI</b></td>
-<td align="center"><b>Consult</b></td>
-<td align="center"><b>Portal</b></td>
-<td align="center"><b>Sales</b></td>
-<td align="center"><b>Loans</b></td>
+<td align="center" width="20%"><h3>DevOps Pipeline</h3><img src="https://img.shields.io/badge/Before-2--3_hours-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-15_minutes-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>CPQ + Stripe</h3><img src="https://img.shields.io/badge/Before-45_min-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-5_min-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Project Recovery</h3><img src="https://img.shields.io/badge/Before-2_months_late-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-3_weeks-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Test Coverage</h3><img src="https://img.shields.io/badge/Before-62%25-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-84%25-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Flow Redesign</h3><img src="https://img.shields.io/badge/Before-12_min-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-3_min-green?style=for-the-badge"/></td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Before-2--3_hrs-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-15_min-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-45_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-5_min-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-2_mo_late-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-3_weeks-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-62%25-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-84%25-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-12_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-3_min-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-12_min-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-7_min-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-$300K-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/Saved-$80K-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-8_sec-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-1.2_sec-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-3--5_days-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-Same_day-green?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Before-Manual-red?style=flat-square"/><br/><img src="https://img.shields.io/badge/After-80%25_Auto-green?style=flat-square"/></td>
+<td align="center" width="20%"><h3>Service Cloud Voice</h3><img src="https://img.shields.io/badge/Before-12_min-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-7_min-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Architecture Consult</h3><img src="https://img.shields.io/badge/Quotes-$300K-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/Saved-$80K-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Portal Performance</h3><img src="https://img.shields.io/badge/Before-8_seconds-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-1.2_sec-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Sales Approvals</h3><img src="https://img.shields.io/badge/Before-3--5_days-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-Same_day-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Loan Automation</h3><img src="https://img.shields.io/badge/Before-Manual-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-80%25_Auto-green?style=for-the-badge"/></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="20%"><h3>Data Migration</h3><img src="https://img.shields.io/badge/Before-2_weeks-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-2_days-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Bug Resolution</h3><img src="https://img.shields.io/badge/Before-23_bugs-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-All_fixed-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Team Adoption</h3><img src="https://img.shields.io/badge/Before-0%25-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-90%25-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Revenue Impact</h3><img src="https://img.shields.io/badge/Before-Baseline-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-+25%25-green?style=for-the-badge"/></td>
+<td align="center" width="20%"><h3>Dispatch Time</h3><img src="https://img.shields.io/badge/Before-Manual-red?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/After-60%25_Faster-green?style=for-the-badge"/></td>
 </tr>
 </table>
 
@@ -255,8 +258,12 @@ AI scheduling assistant with natural language updates. **60% faster dispatch** Â
 <img src="https://img.shields.io/badge/40%25_Higher_Conversion-10B981?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/90%25_Fewer_Errors-FF6B00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/$80K_Saved-9C27B0?style=for-the-badge"/>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/35%25_Sales_Productivity-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/60%25_Faster_Dispatch-E65100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/100%25_Quote_Accuracy-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3x_Team_Velocity-E65100?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/70%25_Less_Bugs-C62828?style=for-the-badge"/>
 </p>
 
 ---
