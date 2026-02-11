@@ -31,12 +31,16 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 ## Tech Stack
 
-### Development
+### Salesforce Development
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Aura](https://img.shields.io/badge/Aura-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Triggers](https://img.shields.io/badge/Triggers-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Batch Apex](https://img.shields.io/badge/Batch_Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Platform Events](https://img.shields.io/badge/Platform_Events-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Salesforce Clouds
 ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -49,74 +53,174 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 ![NPSP](https://img.shields.io/badge/NPSP-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Commerce B2C](https://img.shields.io/badge/Commerce_B2C-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Data Cloud](https://img.shields.io/badge/Data_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Pardot](https://img.shields.io/badge/Pardot-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Field Service](https://img.shields.io/badge/Field_Service-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Einstein](https://img.shields.io/badge/Einstein-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-### Integrations
+### Integrations (20+ Platforms)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![SOAP API](https://img.shields.io/badge/SOAP_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![DocuSign](https://img.shields.io/badge/DocuSign-FFCC22?style=flat-square&logo=docusign&logoColor=black)
+![PandaDoc](https://img.shields.io/badge/PandaDoc-39B54A?style=flat-square&logoColor=white)
+![Conga](https://img.shields.io/badge/Conga-FF6B00?style=flat-square&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 ### CTI & Telephony
 ![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![RingCentral](https://img.shields.io/badge/RingCentral-FF6A00?style=flat-square&logoColor=white)
 ![Service Cloud Voice](https://img.shields.io/badge/Service_Cloud_Voice-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![8x8](https://img.shields.io/badge/8x8-0072CE?style=flat-square&logoColor=white)
+![IVR](https://img.shields.io/badge/IVR_Systems-6B7280?style=flat-square&logoColor=white)
 
-### DevOps
+### Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SFDX](https://img.shields.io/badge/SFDX-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Copado](https://img.shields.io/badge/Copado-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Gearset](https://img.shields.io/badge/Gearset-00A1E0?style=flat-square&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-## Certifications (10x)
+## Salesforce Certifications
 
-![Platform Developer I](https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Platform Developer II](https://img.shields.io/badge/Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![JavaScript Developer I](https://img.shields.io/badge/JavaScript_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Administrator](https://img.shields.io/badge/Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![App Builder](https://img.shields.io/badge/App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<div align="center">
 
-![Data Architect](https://img.shields.io/badge/Data_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Application Architect](https://img.shields.io/badge/Application_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Sharing & Visibility](https://img.shields.io/badge/Sharing_&_Visibility-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![B2C Commerce](https://img.shields.io/badge/B2C_Commerce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![AI Associate](https://img.shields.io/badge/AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+### Developer Certifications
+[![Platform Developer I](https://img.shields.io/badge/✓_Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Platform Developer II](https://img.shields.io/badge/✓_Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![JavaScript Developer I](https://img.shields.io/badge/✓_JavaScript_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![B2C Commerce Developer](https://img.shields.io/badge/✓_B2C_Commerce_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+
+### Administrator Certifications
+[![Administrator](https://img.shields.io/badge/✓_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Platform App Builder](https://img.shields.io/badge/✓_Platform_App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+
+### Architect Certifications
+[![Application Architect](https://img.shields.io/badge/✓_Application_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Data Architect](https://img.shields.io/badge/✓_Data_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Sharing & Visibility Architect](https://img.shields.io/badge/✓_Sharing_&_Visibility_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+
+### AI Certification
+[![AI Associate](https://img.shields.io/badge/✓_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+
+</div>
 
 ---
 
 ## Featured Projects
 
-| Project | Tech Stack | Results |
-|---------|-----------|---------|
-| **Energy Sector Platform** | Salesforce + MuleSoft + WooCommerce + CPQ | 3,500+ agents, 240+ ops users |
-| **Roofing Operations** | Service Cloud Voice + Amazon Connect | 2 portals, 100% call recording |
-| **Manufacturing CPQ** | Salesforce CPQ + ERP Integration | 70% faster quoting, 25% revenue increase |
-| **Charity Fundraising** | NPSP + Experience Cloud + Zapier | 4 platform integrations |
-| **Loan Automation** | FSC + Approval Workflows | 80% less manual work |
+### Energy Sector Platform
+![CPQ](https://img.shields.io/badge/CPQ_&_Billing-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+
+Enterprise platform with CPQ, MuleSoft, and WooCommerce integration. **3,500+ agent users** · **240+ ops users** · **100% quote accuracy**
 
 ---
 
-## Impact
+### Real Estate Call Center
+![Service Cloud](https://img.shields.io/badge/Service_Cloud_Voice-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-| Achievement | Result |
-|-------------|--------|
-| DevOps Transformation | 2-3 hours → 15 minutes |
-| CPQ + Stripe Integration | 45 min → 5 min quote time |
-| Failed Project Recovery | Launched in 3 weeks |
-| Test Coverage Emergency | 62% → 84% in 5 days |
-| Architecture Consultation | Saved $80K on licenses |
+Service Cloud Voice with Amazon Connect CTI, screen pop, and automated follow-ups. **40% higher conversion** · **Real-time transcription** · **Live monitoring**
+
+---
+
+### Manufacturing CPQ
+![CPQ](https://img.shields.io/badge/CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![ERP](https://img.shields.io/badge/ERP_Integration-6B7280?style=flat-square&logoColor=white)
+
+Salesforce CPQ with ERP integration for complex pricing. **70% faster quoting** · **25% revenue increase** · **Real-time margin visibility**
+
+---
+
+### Charity Fundraising
+![NPSP](https://img.shields.io/badge/NPSP-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+NPSP with Experience Cloud, Funraisin, and JustGiving integrations. **4 platforms integrated** · **2 donor portals**
+
+---
+
+### Loan Automation
+![FSC](https://img.shields.io/badge/FSC-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Flows](https://img.shields.io/badge/Approval_Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+Financial Services Cloud with automated approval workflows. **80% less manual work** · **60% faster approvals**
+
+---
+
+### Agentforce for Construction
+![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![AI](https://img.shields.io/badge/AI-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+AI scheduling assistant with natural language updates. **60% faster dispatch** · **Weather-aware rescheduling**
+
+---
+
+## Impact Metrics
+
+| What I Did | Before | After |
+|------------|--------|-------|
+| **DevOps Pipeline** | 2-3 hour deployments | 15 minute deployments |
+| **CPQ + Stripe** | 45 min quote creation | 5 min quote creation |
+| **Failed Project Recovery** | 2 months overdue, 50% login failures | Launched in 3 weeks, 23 bugs fixed |
+| **Test Coverage Crisis** | 62% coverage, blocked deployment | 84% coverage in 5 days |
+| **Complex Flow Redesign** | 12 min completion, timing out | 3 min completion, 90% fewer errors |
+| **Service Cloud Voice** | 12 min handle time, 4 apps | 7 min handle time, single desktop |
+| **Architecture Consult** | $50K-$300K vendor quotes | Saved $80K on licenses |
 
 ---
 
 ## Open Source
 
-[![Google Meet Scheduler](https://img.shields.io/badge/Google_Meet_Scheduler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/google-meet-scheduler-demo)
-[![Multi ICS Sync](https://img.shields.io/badge/Multi_ICS_Calendar_Sync-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/multi-ics-calendar-sync)
+<table>
+<tr>
+<td width="50%">
+
+### Google Meet Scheduler
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/google-meet-scheduler-demo)
+[![Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://shekharh500.github.io/google-meet-scheduler-demo/)
+
+Self-hosted meeting scheduler with Google Calendar integration, OTP verification & automatic Meet link generation.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%">
+
+### Multi-ICS Calendar Sync
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shekharh500/multi-ics-calendar-sync)
+
+Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color coding & timezone awareness.
+
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -124,20 +228,24 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 | Year | Role | Company |
 |------|------|---------|
-| 2024–Present | Solution Architect | AQBEE Innovations |
-| 2022–2024 | Technical Lead | Cloudsheer Consulting |
-| 2020–2022 | Senior Developer | Kcloud Technologies |
-| 2019–2020 | Developer | Kcloud Technologies |
+| 2024–Present | **Solution Architect** | AQBEE Innovations |
+| 2022–2024 | **Technical Lead** | Cloudsheer Consulting |
+| 2020–2022 | **Senior Developer** | Kcloud Technologies |
+| 2019–2020 | **Developer** | Kcloud Technologies |
+| 2019 | **Admin/Developer** | AlmaMate Info Tech |
+| 2017–2019 | **Java/C++ Developer** | NASSCOM / NIIT |
 
 ---
 
-## What Clients Say
+## Client Testimonials
 
-> *"The project went from being blocked to becoming one of the highest revenue-generating parts of the company."*
+> *"When the project was stuck, he worked very hard to find solutions. The project went from being blocked to becoming one of the highest revenue-generating parts of the company."* — **Real Estate Client**
 
-> *"One of the best developers we've worked with."*
+> *"After a bad experience with another freelancer, Himanshu turned things around quickly. Honestly one of the best developers we've worked with."* — **High Tech Client**
 
-> *"Superb technical knowledge and a knack for simplifying complex issues."*
+> *"His blend of expertise, patience, and commitment transformed what felt like an impossible task."* — **Screen Flow Client**
+
+> *"Honest, vendor-neutral consultation saved us money. Clear roadmap and $80K saved on licenses."* — **Architecture Client**
 
 ---
 
@@ -151,9 +259,11 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 <div align="center">
 
+### Need Salesforce Help?
+
 [![Book Call](https://img.shields.io/badge/Book_Free_Consultation-10B981?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://himanshu-shekhar.com/meeting)
 
-**Available for:** Contract work · Architecture reviews · Emergency fixes
+**Available for:** Contract work · Architecture reviews · Emergency fixes · Same-day response
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shekharh500&color=0A66C2&style=flat-square&label=Profile+Views)
 
