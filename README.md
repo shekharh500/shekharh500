@@ -42,21 +42,59 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 ![Batch Apex](https://img.shields.io/badge/Batch_Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Platform Events](https://img.shields.io/badge/Platform_Events-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### Salesforce Clouds
+### Salesforce Clouds & Products
+
+**Core Clouds**
+
 ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Marketing Cloud](https://img.shields.io/badge/Marketing_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![CPQ](https://img.shields.io/badge/CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Billing](https://img.shields.io/badge/Billing-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![FSC](https://img.shields.io/badge/FSC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![NPSP](https://img.shields.io/badge/NPSP-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Commerce B2C](https://img.shields.io/badge/Commerce_B2C-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Commerce Cloud](https://img.shields.io/badge/Commerce_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**Industry Clouds**
+
+![Financial Services Cloud](https://img.shields.io/badge/Financial_Services_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Health Cloud](https://img.shields.io/badge/Health_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Revenue Cloud](https://img.shields.io/badge/Revenue_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Nonprofit Cloud](https://img.shields.io/badge/Nonprofit_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Manufacturing Cloud](https://img.shields.io/badge/Manufacturing_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Education Cloud](https://img.shields.io/badge/Education_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Media Cloud](https://img.shields.io/badge/Media_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**CPQ & Billing**
+
+![Salesforce CPQ](https://img.shields.io/badge/Salesforce_CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Salesforce Billing](https://img.shields.io/badge/Salesforce_Billing-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Revenue Lifecycle](https://img.shields.io/badge/Revenue_Lifecycle-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**Data & Analytics**
+
 ![Data Cloud](https://img.shields.io/badge/Data_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Pardot](https://img.shields.io/badge/Pardot-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Field Service](https://img.shields.io/badge/Field_Service-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![CRM Analytics](https://img.shields.io/badge/CRM_Analytics-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Einstein Analytics](https://img.shields.io/badge/Einstein_Analytics-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**AI & Automation**
+
 ![Einstein](https://img.shields.io/badge/Einstein-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Einstein GPT](https://img.shields.io/badge/Einstein_GPT-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Flow Builder](https://img.shields.io/badge/Flow_Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**Marketing & Engagement**
+
+![Pardot](https://img.shields.io/badge/Pardot-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Marketing Cloud Engagement](https://img.shields.io/badge/MC_Engagement-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Journey Builder](https://img.shields.io/badge/Journey_Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Email Studio](https://img.shields.io/badge/Email_Studio-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+**Field & Service**
+
+![Field Service](https://img.shields.io/badge/Field_Service-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Service Cloud Voice](https://img.shields.io/badge/Service_Cloud_Voice-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Omni-Channel](https://img.shields.io/badge/Omni--Channel-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Knowledge](https://img.shields.io/badge/Knowledge-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ### Integrations (20+ Platforms)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
