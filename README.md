@@ -224,28 +224,61 @@ Auto-sync multiple ICS calendar feeds to Google Calendar with cleanup, color cod
 
 ---
 
-## Career
+## Career Journey
 
-| Year | Role | Company |
-|------|------|---------|
-| 2024–Present | **Solution Architect** | AQBEE Innovations |
-| 2022–2024 | **Technical Lead** | Cloudsheer Consulting |
-| 2020–2022 | **Senior Developer** | Kcloud Technologies |
-| 2019–2020 | **Developer** | Kcloud Technologies |
-| 2019 | **Admin/Developer** | AlmaMate Info Tech |
-| 2017–2019 | **Java/C++ Developer** | NASSCOM / NIIT |
+![2024](https://img.shields.io/badge/2024--Present-Solution_Architect-00A1E0?style=for-the-badge) ![AQBEE](https://img.shields.io/badge/AQBEE_Innovations-000000?style=for-the-badge)
+> Enterprise integrations, AppExchange products & technical architecture
+
+![2022](https://img.shields.io/badge/2022--2024-Technical_Lead-0A66C2?style=for-the-badge) ![Cloudsheer](https://img.shields.io/badge/Cloudsheer_Consulting-000000?style=for-the-badge)
+> Marketing Cloud, Pardot, CPQ implementations & team leadership
+
+![2020](https://img.shields.io/badge/2020--2022-Senior_Developer-2E7D32?style=for-the-badge) ![Kcloud](https://img.shields.io/badge/Kcloud_Technologies-000000?style=for-the-badge)
+> AppExchange apps, managed packages & product development
+
+![2019](https://img.shields.io/badge/2019--2020-Developer-FF9800?style=for-the-badge) ![Kcloud](https://img.shields.io/badge/Kcloud_Technologies-000000?style=for-the-badge)
+> Client projects, Apex & Lightning development
+
+![2017](https://img.shields.io/badge/2017--2019-Java/C++_Developer-9C27B0?style=for-the-badge) ![NASSCOM](https://img.shields.io/badge/NASSCOM_/_NIIT-000000?style=for-the-badge)
+> System programming & software foundations
 
 ---
 
 ## Client Testimonials
 
-> *"When the project was stuck, he worked very hard to find solutions. The project went from being blocked to becoming one of the highest revenue-generating parts of the company."* — **Real Estate Client**
+<table>
+<tr>
+<td width="50%">
 
-> *"After a bad experience with another freelancer, Himanshu turned things around quickly. Honestly one of the best developers we've worked with."* — **High Tech Client**
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **Real Estate Client**
 
-> *"His blend of expertise, patience, and commitment transformed what felt like an impossible task."* — **Screen Flow Client**
+*"When the project was stuck, he worked very hard to find solutions. The project went from being blocked to becoming one of the highest revenue-generating parts of the company."*
 
-> *"Honest, vendor-neutral consultation saved us money. Clear roadmap and $80K saved on licenses."* — **Architecture Client**
+</td>
+<td width="50%">
+
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **High Tech Client**
+
+*"After a bad experience with another freelancer, Himanshu turned things around quickly. Honestly one of the best developers we've worked with."*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **Screen Flow Client**
+
+*"His blend of expertise, patience, and commitment transformed what felt like an impossible task."*
+
+</td>
+<td width="50%">
+
+![Quote](https://img.shields.io/badge/★★★★★-FFD700?style=flat-square) **Architecture Client**
+
+*"Honest, vendor-neutral consultation saved us money. Clear roadmap and $80K saved on licenses."*
+
+</td>
+</tr>
+</table>
 
 ---
 
