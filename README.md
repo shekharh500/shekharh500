@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.salesforce.com/trailblazer/shekharh500"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shekharh500/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://himanshu.aqbee.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Salesforce Architect with **7+ years** of experience building scalable enterpris
 ## Let's Connect
 
 <p align="center">
-  <a href="https://himanshu.aqbee.com/meet"><img src="https://img.shields.io/badge/Schedule_a_Call-00A1E0?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+  <a href="https://himanshu-shekhar.com/meeting"><img src="https://img.shields.io/badge/Book_a_Meeting-00A1E0?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
 </p>
 
 <p align="center">
