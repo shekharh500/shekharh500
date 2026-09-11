@@ -6,7 +6,7 @@
 
 **Salesforce Solution Architect & Developer**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=10x+Salesforce+Certified;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered;CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=15x+Salesforce+Certified;3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered;CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-![10x Certified](https://img.shields.io/badge/10x-Salesforce_Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![15x Certified](https://img.shields.io/badge/15x-Salesforce_Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![7+ Years](https://img.shields.io/badge/7+-Years_Experience-blue?style=for-the-badge)
 ![100+ Projects](https://img.shields.io/badge/100+-Projects_Delivered-orange?style=for-the-badge)
 ![20K+ Hours](https://img.shields.io/badge/20K+-Hours_Billed-green?style=for-the-badge)
@@ -139,23 +139,28 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 <div align="center">
 
-### Developer Certifications
-[![Platform Developer I](https://img.shields.io/badge/✓_Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
-[![Platform Developer II](https://img.shields.io/badge/✓_Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
-[![JavaScript Developer I](https://img.shields.io/badge/✓_JavaScript_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
-[![B2C Commerce Developer](https://img.shields.io/badge/✓_B2C_Commerce_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+### Capstone Architect
+[![System Architect](https://img.shields.io/badge/%E2%9C%93_System_Architect-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Application Architect](https://img.shields.io/badge/%E2%9C%93_Application_Architect-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 
-### Administrator Certifications
-[![Administrator](https://img.shields.io/badge/✓_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
-[![Platform App Builder](https://img.shields.io/badge/✓_Platform_App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+### Architect
+[![Integration Architect](https://img.shields.io/badge/%E2%9C%93_Integration_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Identity & Access Management Architect](https://img.shields.io/badge/%E2%9C%93_Identity_&_Access_Management_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Development Lifecycle & Deployment Architect](https://img.shields.io/badge/%E2%9C%93_Development_Lifecycle_&_Deployment_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Data Architect](https://img.shields.io/badge/%E2%9C%93_Data_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Sharing & Visibility Architect](https://img.shields.io/badge/%E2%9C%93_Sharing_&_Visibility_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 
-### Architect Certifications
-[![Application Architect](https://img.shields.io/badge/✓_Application_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
-[![Data Architect](https://img.shields.io/badge/✓_Data_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
-[![Sharing & Visibility Architect](https://img.shields.io/badge/✓_Sharing_&_Visibility_Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+### Developer
+[![Platform Developer I](https://img.shields.io/badge/%E2%9C%93_Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Platform Developer II](https://img.shields.io/badge/%E2%9C%93_Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![JavaScript Developer I](https://img.shields.io/badge/%E2%9C%93_JavaScript_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![B2C Commerce Developer](https://img.shields.io/badge/%E2%9C%93_B2C_Commerce_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 
-### AI Certification
-[![AI Associate](https://img.shields.io/badge/✓_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+### Platform & AI
+[![Agentforce Specialist](https://img.shields.io/badge/%E2%9C%93_Agentforce_Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Administrator](https://img.shields.io/badge/%E2%9C%93_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Platform App Builder](https://img.shields.io/badge/%E2%9C%93_Platform_App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Platform Foundations](https://img.shields.io/badge/%E2%9C%93_Platform_Foundations-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 
 </div>
 
