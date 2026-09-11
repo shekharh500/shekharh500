@@ -35,7 +35,7 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 **What I Do:**
 - 🏗️ Design & build scalable Salesforce architectures
-- 🔗 Integrate 30+ enterprise platforms
+- 🔗 Integrate 20+ enterprise platforms
 - 📦 Develop AppExchange managed packages
 - 💰 Implement CPQ & Billing solutions
 - 📞 Deploy CTI & telephony systems
@@ -79,7 +79,7 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 ![Pardot](https://img.shields.io/badge/Pardot-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![NPSP](https://img.shields.io/badge/NPSP-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-### Integrations (30+ Platforms)
+### Integrations (20+ Platforms)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![SOAP API](https://img.shields.io/badge/SOAP_API-005571?style=flat-square&logo=fastapi&logoColor=white)
