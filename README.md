@@ -6,7 +6,7 @@
 
 **Salesforce Solution Architect & Developer**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=17x+Certified+(16+Salesforce+%2B+1+AWS);3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered;CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=18x+Certified+(17+Salesforce+%2B+1+AWS);3+AppExchange+Apps+Published;7%2B+Years+Building+Enterprise+Solutions;100%2B+Projects+Delivered;CPQ+%7C+Integrations+%7C+CTI+%7C+AppExchange" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![17x Certified (16 Salesforce + 1 AWS)](https://img.shields.io/badge/17x_Certified-16_Salesforce_%2B_1_AWS-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![18x Certified (17 Salesforce + 1 AWS)](https://img.shields.io/badge/18x_Certified-17_Salesforce_%2B_1_AWS-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 [![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/69e2c1026cf1451d96dfe19e91694783)
 ![7+ Years](https://img.shields.io/badge/7+-Years_Experience-blue?style=for-the-badge)
 ![100+ Projects](https://img.shields.io/badge/100+-Projects_Delivered-orange?style=for-the-badge)
@@ -136,7 +136,7 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 
 ---
 
-## Certifications — 17x Certified (16 Salesforce + 1 AWS)
+## Certifications — 18x Certified (17 Salesforce + 1 AWS)
 
 <sub>Current list and verification: [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/shekharh500) · [AWS credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/69e2c1026cf1451d96dfe19e91694783)</sub>
 
@@ -162,6 +162,7 @@ Salesforce Solution Architect at **AQBEE Innovations** with 7+ years building en
 ### Platform & AI
 [![Agentforce Specialist](https://img.shields.io/badge/%E2%9C%93_Agentforce_Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 [![Agentforce Sales Consultant](https://img.shields.io/badge/%E2%9C%93_Agentforce_Sales_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
+[![Agentforce Service Consultant](https://img.shields.io/badge/%E2%9C%93_Agentforce_Service_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 [![Administrator](https://img.shields.io/badge/%E2%9C%93_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 [![Platform App Builder](https://img.shields.io/badge/%E2%9C%93_Platform_App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
 [![Platform Foundations](https://img.shields.io/badge/%E2%9C%93_Platform_Foundations-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/shekharh500)
